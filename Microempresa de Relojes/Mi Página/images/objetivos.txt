@@ -1,0 +1,10 @@
+
+unir la venta final a la bd
+unir el agregar producto al sistema
+hacer carpeta de microempresa y comercio
+
+
+agregar info a las secciones de info
+crear las redes sociales
+construir la parte de testimonios y clientes (terminar)
+solucionar el correo

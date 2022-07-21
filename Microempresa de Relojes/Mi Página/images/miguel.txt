@@ -1,0 +1,26 @@
+HTML
+
+<div class="contenedor">
+    <div class="ventas">
+        <div class="ventas_product">
+          <section class="product_ventas">
+            <div class="texto">
+              <p><em>"</em> Nuestra tecnología y nuestros procesos de alta calidad permiten tener la más completa línea de productos cárnicos reconocidos mundialmente. <em>"</em></p>
+            </div>
+          </section>
+    </div>
+</div>
+
+CSS
+
+.historia{
+    background-image: url(../images/carniceria.jpg);
+    background-position-x: right;
+}
+
+.historia .textHistoria{
+    background: #fbfbfb;
+    padding: 100px;
+    color: #909090;
+    width: 50%;
+}
